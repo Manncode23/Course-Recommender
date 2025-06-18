@@ -1,0 +1,192 @@
+[
+  {
+    "name": "FreeCodeCamp Web Dev",
+    "category": "web",
+    "level": "beginner",
+    "link": "https://www.freecodecamp.org/learn/"
+  },
+   {
+    "name": "MDN Web Docs - Learn Web Development",
+    "category": "web",
+    "level": "beginner",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn"
+  },
+  {
+    "name": " Harvard's CS50: Web Programming with Python and JavaScript",
+    "category": "web",
+    "level": "beginner",
+    "link": "https://cs50.harvard.edu/web/2020/"
+  },
+ 
+  {
+    "name": " The Odin Project - Full Stack JavaScript",
+    "category": "web",
+    "level": "intermediate",
+    "link": " https://www.theodinproject.com/paths/full-stack-javascript"
+  },
+   {
+    "name": "Full Stack Open",
+    "category": "web",
+    "level": "intermediate",
+    "link": "https://fullstackopen.com/en/"
+  },
+  {
+    "name": "Frontend Masters - Complete Intro to React",
+    "category": "web",
+    "level": "intermediate",
+    "link": "https://frontendmasters.com/courses/complete-react-v6/"
+  },
+  {
+  "name": "Striver's A2Z DSA Sheet & Course",
+  "category": "dsa",
+  "level": "intermediate",
+  "link": "https://takeuforward.org/strivers-a2z-dsa-course/"
+  },
+   {
+    "name": "freeCodeCamp - JavaScript Algorithms and Data Structures",
+    "category": "dsa",
+    "level": "beginner",
+    "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+  },  
+  {
+    "name": "GeeksforGeeks - DSA Self-Paced Course",
+    "category": "dsa",
+    "level": "beginner",
+    "link": "https://practice.geeksforgeeks.org/courses/dsa-self-paced"
+  },{
+    "name": "Abdul Bari - Algorithm Masterclass (Udemy)",
+    "category": "dsa",
+    "level": "intermediate",
+    "link": "https://www.udemy.com/course/algorithm-design-techniques/"
+  }, {
+    "name": "Andrew Ng's Machine Learning (Coursera)",
+    "category": "aiml",
+    "level": "beginner",
+    "link": "https://www.coursera.org/learn/machine-learning"
+  },
+  {
+    "name": "fast.ai - Practical Deep Learning for Coders",
+    "category": "aiml",
+    "level": "beginner",
+    "link": "https://course.fast.ai"
+  },
+  {
+    "name": "Kaggle Learn - Intro to Machine Learning",
+    "category": "aiml",
+    "level": "beginner",
+    "link": "https://www.kaggle.com/learn/intro-to-machine-learning"
+  },
+   {
+    "name": "MIT Introduction to Deep Learning",
+    "category": "aiml",
+    "level": "intermediate",
+    "link": "http://introtodeeplearning.com"
+  },
+  {
+    "name": "Stanford CS231n: CNNs for Visual Recognition",
+    "category": "aiml",
+    "level": "intermediate",
+    "link": "https://cs231n.stanford.edu"
+  },
+  {
+    "name": "Full Stack Deep Learning (Spring 2023)",
+    "category": "aiml",
+    "level": "intermediate",
+    "link": "https://fullstackdeeplearning.com/spring2023/"
+  },
+   {
+    "name": "Buildspace - Intro to Web3",
+    "category": "web3",
+    "level": "beginner",
+    "link": "https://buildspace.so"
+  },
+  {
+    "name": "CryptoZombies (Solidity Tutorial)",
+    "category": "web3",
+    "level": "beginner",
+    "link": "https://cryptozombies.io"
+  },
+   {
+    "name": "EatTheBlocks - Pro Web3 Course",
+    "category": "web3",
+    "level": "intermediate",
+    "link": "https://eattheblocks.com"
+  },
+  {
+    "name": "Patrick Collins - 32-Hour Web3 Course",
+    "category": "web3",
+    "level": "intermediate",
+    "link": "https://www.youtube.com/watch?v=gyMwXuJrbJQ"
+  },
+  {
+    "name": "TryHackMe - Beginner Path",
+    "category": "cybersecurity",
+    "level": "beginner",
+    "link": "https://tryhackme.com/path/outline/beginner"
+  },
+  {
+    "name": "Hack The Box Academy",
+    "category": "cybersecurity",
+    "level": "intermediate",
+    "link": "https://academy.hackthebox.com"
+  },
+   {
+    "name": "Cybersecurity for Beginners - Heimdal",
+    "category": "cybersecurity",
+    "level": "beginner",
+    "link": "https://heimdalsecurity.com/blog/cybersecurity-for-beginners/"
+  },{
+    "name": "Canva Design School",
+    "category": "graphicdesign",
+    "level": "beginner",
+    "link": "https://www.canva.com/learn/"
+  },
+  {
+    "name": "Adobe Illustrator CC - Essentials",
+    "category": "graphicdesign",
+    "level": "intermediate",
+    "link": "https://www.udemy.com/course/adobe-illustrator-cc-essentials-training-course/"
+  },
+  {
+    "name": "The Futur - Graphic Design Fundamentals",
+    "category": "graphicdesign",
+    "level": "beginner",
+    "link": "https://thefutur.com/course/graphic-design-fundamentals"
+  },
+  {
+    "name": "Logo Design Mastery in Adobe Illustrator",
+    "category": "graphicdesign",
+    "level": "intermediate",
+    "link": "https://www.udemy.com/course/logo-design-mastery-in-adobe-illustrator/"},
+    {
+  "name": "Grokking the Coding Interview",
+  "category": "dsa",
+  "level": "intermediate",
+  "link": "https://www.educative.io/courses/grokking-the-coding-interview"
+},
+{
+  "name": "Data Science MicroMasters (UC San Diego)",
+  "category": "datascience",
+  "level": "intermediate",
+  "link": "https://www.edx.org/micromasters/uc-san-diegox-data-science"
+},
+{
+  "name": "Julia for Data Science",
+  "category": "datascience",
+  "level": "intermediate",
+  "link": "https://juliaacademy.com/courses/data-science"
+},{
+  "name": "Data Science Full Course (12 Hours) - freeCodeCamp",
+  "category": "datascience",
+  "level": "beginner",
+  "link": "https://youtu.be/ua-CiDNNj30"
+},
+{
+  "name": "Python for Data Science - IBM (5 Hours)",
+  "category": "datascience",
+  "level": "beginner",
+  "link": "https://youtu.be/7eh4d6sabA0"
+}
+
+
+]
